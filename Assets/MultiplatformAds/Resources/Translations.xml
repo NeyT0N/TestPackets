@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body>
+  <ar>
+    <translate text="Advertising in {0} seconds">الإعلانات في {0} ثواني</translate>
+    <translate text="Tap to continue">اضغط للاستمرار</translate>
+    <translate text="No connection">لا يوجد اتصال</translate>
+    <translate text="Ad block enabled">تم تمكين حظر الإعلانات</translate>
+    <translate text="Waiting ads">انتظار الإعلانات</translate>
+    <translate text="Fail">فشل</translate>
+  </ar>
+  
+  <az>
+    <translate text="Advertising in {0} seconds">{0} saniyədə reklam</translate>
+    <translate text="Tap to continue">Davama davam etmək üçün toxunun</translate>
+    <translate text="No connection">Əlaqə yoxdur</translate>
+    <translate text="Ad block enabled">Reklam bloku aktivdir</translate>
+    <translate text="Waiting ads">Reklam gözləyir</translate>
+    <translate text="Fail">Xəta</translate>
+  </az>
+  
+  <be>
+    <translate text="Advertising in {0} seconds">Рэклама праз {0} секунд</translate>
+    <translate text="Tap to continue">Націсніце, каб працягнуць</translate>
+    <translate text="No connection">Няма злучэння</translate>
+    <translate text="Ad block enabled">Блакаванне рэкламы ўключана</translate>
+    <translate text="Waiting ads">Чаканне рэкламы</translate>
+    <translate text="Fail">Памылка</translate>
+  </be>
+  
+  <bg>
+    <translate text="Advertising in {0} seconds">Реклама следваща {0} секунди</translate>
+    <translate text="Tap to continue">Докоснете, за да продължите</translate>
+    <translate text="No connection">Няма връзка</translate>
+    <translate text="Ad block enabled">Рекламата е блокирана</translate>
+    <translate text="Waiting ads">Изчакване на реклами</translate>
+    <translate text="Fail">Грешка</translate>
+  </bg>
+  
+  <ca>
+    <translate text="Advertising in {0} seconds">Publicitat en {0} segons</translate>
+    <translate text="Tap to continue">Toqueu per continuar</translate>
+    <translate text="No connection">Sense connexió</translate>
+    <translate text="Ad block enabled">Bloqueig d'anuncis activat</translate>
+    <translate text="Waiting ads">Esperant anuncis</translate>
+    <translate text="Fail">Error</translate>
+  </ca>
+  
+  <cs>
+    <translate text="Advertising in {0} seconds">Reklama za {0} sekund</translate>
+    <translate text="Tap to continue">Klepněte pro pokračování</translate>
+    <translate text="No connection">Žádné připojení</translate>
+    <translate text="Ad block enabled">Blokování reklam zapnuto</translate>
+    <translate text="Waiting ads">Čekání na reklamy</translate>
+    <translate text="Fail">Chyba</translate>
+  </cs>
+  
+  <de>
+    <translate text="Advertising in {0} seconds">Werbung in {0} Sekunden</translate>
+    <translate text="Tap to continue">Tippen, um fortzufahren</translate>
+    <translate text="No connection">Keine Verbindung</translate>
+    <translate text="Ad block enabled">Werbeblocker aktiviert</translate>
+    <translate text="Waiting ads">Warten auf Werbung</translate>
+    <translate text="Fail">Fehler</translate>
+  </de>
+  
+  <en>
+    <translate text="Advertising in {0} seconds">Advertising in {0} seconds</translate>
+    <translate text="Tap to continue">Tap to continue</translate>
+    <translate text="No connection">No connection</translate>
+    <translate text="Ad block enabled">Ad block enabled</translate>
+    <translate text="Waiting ads">Waiting ads</translate>
+    <translate text="Fail">Fail</translate>
+  </en>
+  
+  <es>
+    <translate text="Advertising in {0} seconds">Publicidad en {0} segundos</translate>
+    <translate text="Tap to continue">Toca para continuar</translate>
+    <translate text="No connection">Sin conexión</translate>
+    <translate text="Ad block enabled">Bloqueo de anuncios activado</translate>
+    <translate text="Waiting ads">Esperando anuncios</translate>
+    <translate text="Fail">Error</translate>
+  </es>
+  
+  <fa>
+    <translate text="Advertising in {0} seconds">تبلیغات در {0} ثانیه</translate>
+    <translate text="Tap to continue">برای ادامه ضربه بزنید</translate>
+    <translate text="No connection">بدون اتصال</translate>
+    <translate text="Ad block enabled">مسدود کننده تبلیغات فعال است</translate>
+    <translate text="Waiting ads">در حال انتظار تبلیغات</translate>
+    <translate text="Fail">خطا</translate>
+  </fa>
+  
+  <fr>
+    <translate text="Advertising in {0} seconds">Publicité dans {0} secondes</translate>
+    <translate text="Tap to continue">Appuyez pour continuer</translate>
+    <translate text="No connection">Aucune connexion</translate>
+    <translate text="Ad block enabled">Blocage des publicités activé</translate>
+    <translate text="Waiting ads">En attente des publicités</translate>
+    <translate text="Fail">Échec</translate>
+  </fr>
+  
+  <he>
+    <translate text="Advertising in {0} seconds">פרסום ב-{0} שניות</translate>
+    <translate text="Tap to continue">הקש להמשך</translate>
+    <translate text="No connection">אין חיבור</translate>
+    <translate text="Ad block enabled">חסימת פרסומות הופעלה</translate>
+    <translate text="Waiting ads">ממתין לפרסומות</translate>
+    <translate text="Fail">שגיאה</translate>
+  </he>
+  
+  <hi>
+    <translate text="Advertising in {0} seconds">विज्ञापन {0} सेकंड में</translate>
+    <translate text="Tap to continue">जारी रखने के लिए टैप करें</translate>
+    <translate text="No connection">कोई कनेक्शन नहीं</translate>
+    <translate text="Ad block enabled">एड ब्लॉक सक्षम है</translate>
+    <translate text="Waiting ads">विज्ञापनों का इंतजार</translate>
+    <translate text="Fail">विफल</translate>
+  </hi>
+  
+  <hu>
+    <translate text="Advertising in {0} seconds">Reklám {0} másodpercen belül</translate>
+    <translate text="Tap to continue">Koppintson a folytatáshoz</translate>
+    <translate text="No connection">Nincs kapcsolat</translate>
+    <translate text="Ad block enabled">Reklámblokkoló engedélyezve</translate>
+    <translate text="Waiting ads">Reklámra várakozás</translate>
+    <translate text="Fail">Hiba</translate>
+  </hu>
+  
+  <hy>
+    <translate text="Advertising in {0} seconds">Գովազդը {0} վայրկյանում</translate>
+    <translate text="Tap to continue">Շփեք՝ շարունակելու համար</translate>
+    <translate text="No connection">Կապ չկա</translate>
+    <translate text="Ad block enabled">Գովազդի բլոկացումը ակտիվ է</translate>
+    <translate text="Waiting ads">Գովազդների սպասում</translate>
+    <translate text="Fail">Սխալ</translate>
+  </hy>
+  
+  <id>
+    <translate text="Advertising in {0} seconds">Iklan dalam {0} detik</translate>
+    <translate text="Tap to continue">Ketuk untuk melanjutkan</translate>
+    <translate text="No connection">Tidak ada koneksi</translate>
+    <translate text="Ad block enabled">Pemblokiran iklan diaktifkan</translate>
+    <translate text="Waiting ads">Menunggu iklan</translate>
+    <translate text="Fail">Gagal</translate>
+  </id>
+  
+  <it>
+    <translate text="Advertising in {0} seconds">Pubblicità tra {0} secondi</translate>
+    <translate text="Tap to continue">Tocca per continuare</translate>
+    <translate text="No connection">Nessuna connessione</translate>
+    <translate text="Ad block enabled">Blocco annunci attivato</translate>
+    <translate text="Waiting ads">In attesa di annunci</translate>
+    <translate text="Fail">Errore</translate>
+  </it>
+  
+  <ja>
+    <translate text="Advertising in {0} seconds">{0}秒後に広告</translate>
+    <translate text="Tap to continue">続行するにはタップしてください</translate>
+    <translate text="No connection">接続なし</translate>
+    <translate text="Ad block enabled">広告ブロックが有効</translate>
+    <translate text="Waiting ads">広告を待っています</translate>
+    <translate text="Fail">失敗</translate>
+  </ja>
+  
+  <ka>
+    <translate text="Advertising in {0} seconds">რეკლამა {0} წამში</translate>
+    <translate text="Tap to continue">გაგრძელება დააჭირეთ</translate>
+    <translate text="No connection">კავშირი არ არის</translate>
+    <translate text="Ad block enabled">რეკლამის ბლოკირება ჩაირთო</translate>
+    <translate text="Waiting ads">რეკლამის ლოდინი</translate>
+    <translate text="Fail">შეცდომა</translate>
+  </ka>
+  
+  <kk>
+    <translate text="Advertising in {0} seconds">Реклама {0} секундта</translate>
+    <translate text="Tap to continue">Жалғастыру үшін түртіңіз</translate>
+    <translate text="No connection">Қосылым жоқ</translate>
+    <translate text="Ad block enabled">Реклама блоктаушы қосылды</translate>
+    <translate text="Waiting ads">Рекламаларды күту</translate>
+    <translate text="Fail">Қате</translate>
+  </kk>
+  
+  <nl>
+    <translate text="Advertising in {0} seconds">Reclame in {0} seconden</translate>
+    <translate text="Tap to continue">Tik om door te gaan</translate>
+    <translate text="No connection">Geen verbinding</translate>
+    <translate text="Ad block enabled">Advertentieblokker ingeschakeld</translate>
+    <translate text="Waiting ads">Wachten op advertenties</translate>
+    <translate text="Fail">Fout</translate>
+  </nl>
+  
+  <pl>
+    <translate text="Advertising in {0} seconds">Reklama za {0} sekund</translate>
+    <translate text="Tap to continue">Dotknij, aby kontynuować</translate>
+    <translate text="No connection">Brak połączenia</translate>
+    <translate text="Ad block enabled">Blokowanie reklam włączone</translate>
+    <translate text="Waiting ads">Oczekiwanie na reklamy</translate>
+    <translate text="Fail">Błąd</translate>
+  </pl>
+  
+  <pt>
+    <translate text="Advertising in {0} seconds">Publicidade em {0} segundos</translate>
+    <translate text="Tap to continue">Toque para continuar</translate>
+    <translate text="No connection">Sem conexão</translate>
+    <translate text="Ad block enabled">Bloqueador de anúncios ativado</translate>
+    <translate text="Waiting ads">Aguardando anúncios</translate>
+    <translate text="Fail">Falha</translate>
+  </pt>
+  
+  <ro>
+    <translate text="Advertising in {0} seconds">Publicitate în {0} secunde</translate>
+    <translate text="Tap to continue">Apăsați pentru a continua</translate>
+    <translate text="No connection">Fără conexiune</translate>
+    <translate text="Ad block enabled">Blocare reclame activată</translate>
+    <translate text="Waiting ads">Așteptare reclame</translate>
+    <translate text="Fail">Eșec</translate>
+  </ro>
+  
+  <ru>
+    <translate text="Advertising in {0} seconds">Реклама через {0} секунд</translate>
+    <translate text="Tap to continue">Нажмите для продолжения</translate>
+    <translate text="No connection">Нет соединения</translate>
+    <translate text="Ad block enabled">Блокировка рекламы включена</translate>
+    <translate text="Waiting ads">Ожидание рекламы</translate>
+    <translate text="Fail">Ошибка</translate>
+  </ru>
+  
+  <sk>
+    <translate text="Advertising in {0} seconds">Reklama za {0} sekúnd</translate>
+    <translate text="Tap to continue">Klepnutím pokračujte</translate>
+    <translate text="No connection">Žiadne pripojenie</translate>
+    <translate text="Ad block enabled">Blokovanie reklám je zapnuté</translate>
+    <translate text="Waiting ads">Čakanie na reklamy</translate>
+    <translate text="Fail">Chyba</translate>
+  </sk>
+  
+  <sr>
+    <translate text="Advertising in {0} seconds">Reklama za {0} sekundi</translate>
+    <translate text="Tap to continue">Dodirnite da nastavite</translate>
+    <translate text="No connection">Nema veze</translate>
+    <translate text="Ad block enabled">Blokada reklama je uključena</translate>
+    <translate text="Waiting ads">Čeka se reklama</translate>
+    <translate text="Fail">Greška</translate>
+  </sr>
+  
+  <th>
+    <translate text="Advertising in {0} seconds">โฆษณาใน {0} วินาที</translate>
+    <translate text="Tap to continue">แตะเพื่อดำเนินการต่อ</translate>
+    <translate text="No connection">ไม่มีการเชื่อมต่อ</translate>
+    <translate text="Ad block enabled">บล็อคโฆษณาถูกเปิดใช้งาน</translate>
+    <translate text="Waiting ads">รอการแสดงโฆษณา</translate>
+    <translate text="Fail">ล้มเหลว</translate>
+  </th>
+  
+  <tk>
+    <translate text="Advertising in {0} seconds">Reklama {0} sekuntda</translate>
+    <translate text="Tap to continue">Devam etmek için dokunun</translate>
+    <translate text="No connection">Bağlantı yok</translate>
+    <translate text="Ad block enabled">Reklam engelleyici etkin</translate>
+    <translate text="Waiting ads">Reklam bekleniyor</translate>
+    <translate text="Fail">Hata</translate>
+  </tk>
+  
+  <tr>
+    <translate text="Advertising in {0} seconds">Reklamlar {0} saniyede</translate>
+    <translate text="Tap to continue">Devam etmek için dokunun</translate>
+    <translate text="No connection">Bağlantı yok</translate>
+    <translate text="Ad block enabled">Reklam engelleyici etkin</translate>
+    <translate text="Waiting ads">Reklamlar bekleniyor</translate>
+    <translate text="Fail">Hata</translate>
+  </tr>
+  
+  <uk>
+    <translate text="Advertising in {0} seconds">Реклама через {0} секунд</translate>
+    <translate text="Tap to continue">Натисніть для продовження</translate>
+    <translate text="No connection">Немає підключення</translate>
+    <translate text="Ad block enabled">Блокування реклами увімкнено</translate>
+    <translate text="Waiting ads">Очікування реклами</translate>
+    <translate text="Fail">Помилка</translate>
+  </uk>
+  
+  <uz>
+    <translate text="Advertising in {0} seconds">Reklama {0} soniyada</translate>
+    <translate text="Tap to continue">Davom etish uchun bosing</translate>
+    <translate text="No connection">Aloqa yo'q</translate>
+    <translate text="Ad block enabled">Reklama blokirovkasini yoqildi</translate>
+    <translate text="Waiting ads">Reklama kutmoqda</translate>
+    <translate text="Fail">Xato</translate>
+  </uz>
+  
+  <vi>
+    <translate text="Advertising in {0} seconds">Quảng cáo trong {0} giây</translate>
+    <translate text="Tap to continue">Chạm để tiếp tục</translate>
+    <translate text="No connection">Không có kết nối</translate>
+    <translate text="Ad block enabled">Chặn quảng cáo đã bật</translate>
+    <translate text="Waiting ads">Đang chờ quảng cáo</translate>
+    <translate text="Fail">Lỗi</translate>
+  </vi>
+  
+  <zh>
+    <translate text="Advertising in {0} seconds">{0}秒后广告</translate>
+    <translate text="Tap to continue">点击继续</translate>
+    <translate text="No connection">无连接</translate>
+    <translate text="Ad block enabled">已启用广告拦截</translate>
+    <translate text="Waiting ads">等待广告</translate>
+    <translate text="Fail">失败</translate>
+  </zh>
+</body>
